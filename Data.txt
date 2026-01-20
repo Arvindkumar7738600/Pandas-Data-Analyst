@@ -1,0 +1,4 @@
+1 - Understand the data set.
+2 - Identify the Problems.
+3 - plan for next step.
+

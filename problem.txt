@@ -1,0 +1,14 @@
+1 - I have no idea how many rows and coloum are here.
+2 - what types of data?
+3 - Missing data.
+
+Info
+Method
+
+
+-------Result-------
+1- number of rows and cloumns
+2- column name
+3- int64 float64 object
+4- non null counts 
+5- memory usage of the data frame.
