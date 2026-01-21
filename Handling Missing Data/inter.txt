@@ -1,0 +1,16 @@
+interpolate() means calculate estimate value from data then fill the missing value.
+
+10
+20
+NaN
+40
+50
+60
+..
+...
+
+
+1 - linera
+2 - prevence data integrity
+3 - smooth trends
+4 - avoid data loss
