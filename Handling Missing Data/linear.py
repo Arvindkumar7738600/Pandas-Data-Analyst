@@ -13,3 +13,14 @@ print(df)
 df['Value'] = df['Value'].interpolate(method="linear")
 print("after interpolation")
 print(df)
+
+
+#use of interpolate 
+
+'''
+1 - timer series data (example : stock market)
+2 - Numeric data with trends
+3 - avoid dropping row data rows 
+
+
+'''
